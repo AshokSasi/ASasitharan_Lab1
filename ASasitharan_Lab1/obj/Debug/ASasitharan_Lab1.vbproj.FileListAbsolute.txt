@@ -1,0 +1,11 @@
+D:\Projects\NET DEV PROGRAMS\ASasitharan_Lab1\bin\Debug\ASasitharan_Lab1.exe.config
+D:\Projects\NET DEV PROGRAMS\ASasitharan_Lab1\bin\Debug\ASasitharan_Lab1.exe
+D:\Projects\NET DEV PROGRAMS\ASasitharan_Lab1\bin\Debug\ASasitharan_Lab1.pdb
+D:\Projects\NET DEV PROGRAMS\ASasitharan_Lab1\bin\Debug\ASasitharan_Lab1.xml
+D:\Projects\NET DEV PROGRAMS\ASasitharan_Lab1\obj\Debug\ASasitharan_Lab1.vbprojAssemblyReference.cache
+D:\Projects\NET DEV PROGRAMS\ASasitharan_Lab1\obj\Debug\ASasitharan_Lab1.Resources.resources
+D:\Projects\NET DEV PROGRAMS\ASasitharan_Lab1\obj\Debug\ASasitharan_Lab1.vbproj.GenerateResource.cache
+D:\Projects\NET DEV PROGRAMS\ASasitharan_Lab1\obj\Debug\ASasitharan_Lab1.exe
+D:\Projects\NET DEV PROGRAMS\ASasitharan_Lab1\obj\Debug\ASasitharan_Lab1.xml
+D:\Projects\NET DEV PROGRAMS\ASasitharan_Lab1\obj\Debug\ASasitharan_Lab1.pdb
+D:\Projects\NET DEV PROGRAMS\ASasitharan_Lab1\obj\Debug\ASasitharan_Lab1.averageUnitsShipped.resources
